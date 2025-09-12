@@ -4,12 +4,12 @@ public class test1 {
         int b = 5;
 
         int sum = a + b;
-        int difference = a - b;
+        int minus = a - b;
         int product = a * b;
         int quotient = a % b;
 
-        System.out.println("Sum: " + sum);
-        System.out.println("Difference: " + difference);
+        System.out.println("sum: " + sum);
+        System.out.println("minus: " + minus);
         System.out.println("product: " + product);
         System.out.println("quotient: " + quotient);
     }
