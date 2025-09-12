@@ -10,8 +10,8 @@ public class test1 {
 
         System.out.println("Sum: " + sum);
         System.out.println("Difference: " + difference);
-       // System.out.println("product: " + product);
-        //System.out.println("quotient: " + quotient);
+        System.out.println("product: " + product);
+        System.out.println("quotient: " + quotient);
     }
 }
 
