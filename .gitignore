@@ -1,0 +1,10 @@
+# Maven build output (자동 생성되는 빌드 산출물 무시)
+target/
+
+# IDE & Editor 설정 파일 무시
+.vscode/
+.idea/
+
+# OS 시스템 파일 무시
+.DS_Store
+Thumbs.db
